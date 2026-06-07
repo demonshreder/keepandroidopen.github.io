@@ -13,20 +13,20 @@ hero_sub: >-
 hero_kicker: "Every app and every device, worldwide, with no opt-out."
 
 # What Google is doing
-what_heading: "What Google is doing"
+what_heading: "கூகுள் என்ன செய்கிறது"
 what_intro: >-
   In August 2025, Google [announced](https://developer.android.com/developer-verification) a new requirement: starting September 2026, **every Android app developer must register centrally with Google** before their software can be installed on any device. Not just Play Store apps: all apps. This includes apps shared between friends, distributed through [F-Droid](https://f-droid.org), built by hobbyists for personal use. Independent developers, church and community groups, and hobbyists alike will all be frozen out of being able to develop and distribute their software.
-what_registration: "Registration requires:"
-what_req_fee: "Paying a fee to Google"
-what_req_terms: "Agreeing to Google's Terms and Conditions"
-what_req_id: "Surrendering your government-issued identification"
-what_req_signing: "Providing evidence of your private signing key"
-what_req_appids: "Listing all current and all future application identifiers"
-what_pullquote: "If a developer does not comply, their apps get silently blocked on every Android device worldwide."
+what_registration: "பதிவுக்கு தேவையானவை "
+what_req_fee: "கூகுள்க்கு கட்டணம் செலுத்த வேண்டும்"
+what_req_terms: "கூகுளின் விதிமுறைகள் மற்றும் நிபந்தனைகளை ஏற்றுக்கொள்ள வேண்டும்"
+what_req_id: "உங்களுடைய அரசு அடையாள ஆவணத்தை சமர்ப்பிக்க வேண்டும்"
+what_req_signing: "உங்கள் தனி திரவியின் ஆதாரம் ஒப்படைக்க வேண்டும்"
+what_req_appids: "தற்போதைய மற்றும் வருங்கால செயலிகள் அடையாளங்கள்"
+what_pullquote: "ஒரு படைப்பாளர் இதையானதுமே ஏற்காவிட்டால் உலகமெங்கும் அணைத்து ஆண்ட்ராய்டு திறன்பேசிகளில் தடை செய்யப்படும்"
 
 # Who this hurts
-impact_heading: "Who this hurts"
-impact_you_heading: "You"
+impact_heading: "இது யாரை பாதிக்கும்"
+impact_you_heading: "உங்கள"
 impact_you_p1: "You bought an Android phone because Google told you it was open. You could install what you wanted, and that was the deal."
 impact_you_p2: >-
   Google is now rewriting that deal, retroactively, on hardware you already own. After the update lands, you can only run software that Google has pre-approved. On your phone: *your* property, that *you* paid for.
