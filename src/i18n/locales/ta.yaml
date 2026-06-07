@@ -2,12 +2,12 @@
 # All other locale files fall back to these values for missing keys.
 
 # Meta
-title: "Keep Android Open"
+title: "அன்ரோயிட்யை முடக்காதே"
 description: "Your phone is about to stop being yours. In September 2026, Google will block every Android app whose developer hasn't registered with them."
 
 # Hero
-hero_lede: "Your phone is about to stop being yours."
-hero_countdown_label: "days until lockdown"
+hero_lede: "உங்கள் தொலைபேசி உங்களுடையதாக இல்லாமல் போகப்போகிறது."
+hero_countdown_label: "நாட்களில் முடக்கம்"
 hero_sub: >-
   Starting September 2026, a silent update, nonconsensually pushed by Google, will **block every Android app** whose developer hasn't registered with Google, signed their contract, paid up, and handed over government ID.
 hero_kicker: "Every app and every device, worldwide, with no opt-out."
@@ -22,7 +22,7 @@ what_req_terms: "கூகுளின் விதிமுறைகள் ம�
 what_req_id: "உங்களுடைய அரசு அடையாள ஆவணத்தை சமர்ப்பிக்க வேண்டும்"
 what_req_signing: "உங்கள் தனி திரவியின் ஆதாரம் ஒப்படைக்க வேண்டும்"
 what_req_appids: "தற்போதைய மற்றும் வருங்கால செயலிகள் அடையாளங்கள்"
-what_pullquote: "ஒரு நிரலாளர் இதை அனைத்தையுமே ஏற்காவிட்டால் உலகமெங்கும் அணைத்து ஆண்ட்ராய்டு திறன்பேசிகளில் தடை செய்யப்படும்"
+what_pullquote: "ஒரு நிரலாளர் இதை அனைத்தையுமே ஏற்காவிட்டால்  அவர்களது செயலி உலகமெங்கும் அணைத்து ஆண்ட்ராய்டு திறன்பேசிகளில் தடை செய்யப்படும்"
 
 # Who this hurts
 impact_heading: "இது யாரை பாதிக்கும்"
@@ -58,7 +58,7 @@ flow_detail: >-
   Worse: this flow runs entirely through **Google Play Services**, not the Android OS. Google can change it, tighten it, or kill it at any time, with no OS update required and no consent needed. And as of today, it hasn't shipped in any beta, preview, or canary build. It exists only as a blog post and some mockups.
 
 # Precedent
-precedent_heading: "This is bigger than Android"
+precedent_heading: "இது ஆண்ட்ராய்டு விடப் பெரியது."
 precedent_pullquote: "If Google can retroactively lock down billions of devices that were sold as open platforms, every hardware manufacturer on the planet is watching."
 precedent_p1: >-
   The principle being established: **the company that made your device gets to decide, after you've bought it, what software you're allowed to run.** In software, this is called a "rug pull"; but at least you could always install competing software. In hardware, it is a *fait accompli* that strips you of your agency and renders you powerless to the whims of a single unaccountable gatekeeper and convicted monopolist.
@@ -111,24 +111,24 @@ act_dev_warn: >-
   Add the [FreeDroidWarn library](https://github.com/woheller69/FreeDroidWarn) to your apps to warn users.
 act_dev_banner: >-
   Run a website? [Add the countdown banner.](/banner)
-act_google_heading: "Google employees"
+act_google_heading: "கூகுள் ஊழியர்கள்"
 act_google_text: >-
   If you know something about the program's technical implementation or internal rationale, contact [tips@keepandroidopen.org](mailto:tips@keepandroidopen.org) from a *non-work* machine and a *non-Gmail* account. Strict confidence guaranteed.
 
 # Voices section
-voices_heading: "What they're saying"
-voices_press: "Tech press"
+voices_heading: "அவங்க என்ன சொல்றாங்க"
+voices_press: "தொழில்நுட்ப ஊடகங்கள்"
 voices_editorials: "Editorials & analysis"
-voices_orgs: "Organizations & open letters"
+voices_orgs: "அமைப்புகள் மற்றும் கடிதங்கள்"
 voices_creators: "YouTubers & creators"
 voices_community: "Developers & community"
 voices_petition: "Voices from the petition"
 voices_more: "All references, editorials, press coverage, and videos"
 
 # Signatories section
-signatories_heading: "All those opposed…"
+signatories_heading: "இதை எதிர்த்தவர்கள் ..."
 signatories_count: "{count} organizations from {countries} countries have signed the"
-signatories_open_letter_link: "open letter"
+signatories_open_letter_link: "பொது கடிதம்"
 signatories_more: "Read the full open letter and thank the signatories"
 
 # CTA banners
@@ -138,11 +138,11 @@ cta_letter_label: "Open Letter"
 cta_letter_desc: "Read the open letter signed by organizations opposing developer verification"
 
 # Closing
-closing_line1: "You bought your phone."
-closing_line2: "You should decide what runs on it."
-closing_detail: "That shouldn't require a 9-step process, a 24-hour wait, and Google's ongoing permission."
-closing_cta: "Share this page. Don't sign up. Don't let them close Android."
-closing_share_heading: "Spread the word"
+closing_line1: "நீங்கள் வாங்கிய கைபேசியில்"
+closing_line2: "எதை பயன்படுத்த வேண்டும் என்று நீங்கள் தான் முடிவு செய்ய வேண்டும்."
+closing_detail: "அதற்கு 9-கட்ட செயல்முறை, 24 மணி நேர காத்திருப்பு அல்லது கூகுளின் தொடர் அனுமதி தேவையில்லை."
+closing_cta: "இந்த பக்கத்தை பகிர்க. இந்த திட்டத்தில்  பதிவு செய்யாதீர். அவர்களை ஆண்ட்ராய்டுயை முடக்க விடாதீர்."
+closing_share_heading: "தகவல் பகிர்க"
 
 # Social share messages (rotated randomly; {url} is replaced at build time)
 social_callout_x_1: "Starting September 2026, Google will block any Android app whose developer hasn't registered and provided government ID. This affects every Android device worldwide. Learn more: {url} @AlteredDeal #KeepAndroidOpen"
