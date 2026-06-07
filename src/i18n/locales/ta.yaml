@@ -22,7 +22,7 @@ what_req_terms: "கூகுளின் விதிமுறைகள் ம�
 what_req_id: "உங்களுடைய அரசு அடையாள ஆவணத்தை சமர்ப்பிக்க வேண்டும்"
 what_req_signing: "உங்கள் தனி திரவியின் ஆதாரம் ஒப்படைக்க வேண்டும்"
 what_req_appids: "தற்போதைய மற்றும் வருங்கால செயலிகள் அடையாளங்கள்"
-what_pullquote: "ஒரு படைப்பாளர் இதையானதுமே ஏற்காவிட்டால் உலகமெங்கும் அணைத்து ஆண்ட்ராய்டு திறன்பேசிகளில் தடை செய்யப்படும்"
+what_pullquote: "ஒரு நிரலாளர் இதை அனைத்தையுமே ஏற்காவிட்டால் உலகமெங்கும் அணைத்து ஆண்ட்ராய்டு திறன்பேசிகளில் தடை செய்யப்படும்"
 
 # Who this hurts
 impact_heading: "இது யாரை பாதிக்கும்"
@@ -30,7 +30,7 @@ impact_you_heading: "உங்கள"
 impact_you_p1: "You bought an Android phone because Google told you it was open. You could install what you wanted, and that was the deal."
 impact_you_p2: >-
   Google is now rewriting that deal, retroactively, on hardware you already own. After the update lands, you can only run software that Google has pre-approved. On your phone: *your* property, that *you* paid for.
-impact_dev_heading: "Independent developers"
+impact_dev_heading: "சுயேட்சை நிரலாளர்"
 impact_dev_p1: "A teenager's first app, a volunteer's privacy tool, or a company's confidential internal beta. It doesn't matter. After September 2026, none of these can be installed without Google's blessing."
 impact_dev_p2: >-
   [F-Droid](https://f-droid.org), home to thousands of free and open-source Android apps, has called this an ["existential" threat](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html). Cory Doctorow calls it ["Darth Android"](https://pluralistic.net/2025/09/01/fulu/).
