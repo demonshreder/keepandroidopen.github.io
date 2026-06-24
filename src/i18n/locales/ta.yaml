@@ -2,27 +2,27 @@
 # All other locale files fall back to these values for missing keys.
 
 # Meta
-title: "அன்ரோயிட்யை முடக்காதே"
+title: "ஆண்ட்ராய்டை முடக்காதே"
 description: "Your phone is about to stop being yours. In September 2026, Google will block every Android app whose developer hasn't registered with them."
 
 # Hero
-hero_lede: "உங்கள் தொலைபேசி உங்களுடையதாக இல்லாமல் போகப்போகிறது."
+hero_lede: "உங்கள் தொலைபேசி உங்களுடையதாக இல்லாமல் போகப் போகிறது."
 hero_countdown_label: "நாட்களில் முடக்கம்"
 hero_sub: >-
-  Starting September 2026, a silent update, nonconsensually pushed by Google, will **block every Android app** whose developer hasn't registered with Google, signed their contract, paid up, and handed over government ID.
-hero_kicker: "Every app and every device, worldwide, with no opt-out."
+  செப்டம்பர் 2026 முதல், கூகுள் பயனர்களின் அனுமதி இன்றி ஒரு அறிவிப்பற்ற மென்பொருள் புதுப்பிப்பை (silent update) வெளியிட்டுள்ளது, கூகுளில் பதிவு செய்யாத, ஒப்பந்தத்தில் கையெழுத்திடாத, கட்டணத்தைச் செலுத்தாத மற்றும் அரசு அடையாள ஆவணத்தை வழங்காத எந்தவொரு நிரலாளரின் ஆண்ட்ராய்டு செயலியாக இருந்தாலும், **கூகுள் அதை தடைச்செய்யும்**.
+hero_kicker: "உலகம் முழுவதிலும் உள்ள அனைத்து செயலிகளும், அனைத்து சாதனங்களும் இதற்கு உட்படுத்தப்படும்; இதில் இருந்து விலகும் வாய்ப்பு கிடையாது."
 
 # What Google is doing
 what_heading: "கூகுள் என்ன செய்கிறது"
 what_intro: >-
-  In August 2025, Google [announced](https://developer.android.com/developer-verification) a new requirement: starting September 2026, **every Android app developer must register centrally with Google** before their software can be installed on any device. Not just Play Store apps: all apps. This includes apps shared between friends, distributed through [F-Droid](https://f-droid.org), built by hobbyists for personal use. Independent developers, church and community groups, and hobbyists alike will all be frozen out of being able to develop and distribute their software.
+  ஆகஸ்ட் 2025-இல், கூகுள் ஒரு புதிய [நிபந்தனையை](https://developer.android.com/developer-verification) அறிவித்துள்ளது: செப்டம்பர் 2026 முதல், **அனைத்து ஆண்ட்ராய்டு செயலி நிரலாளர்கள், அவர்களின் மென்பொருளை எந்தவொரு சாதனத்திலும் நிறுவுவதற்கு முன்பு கூகிளின் மையப்பட்டிருகில் பதிவு செய்ய வேண்டும்**.  பிலேஸ்டோர்(PlayStore) செயலிகள் மட்டுமல்ல: அனைத்து செயலிகளும் அடங்கும். இதில் நண்பர்களுக்கு இடையே பகிரப்படும் செயலிகள், [F-Droid](https://f-droid.org) மூலம் விநியோகிக்கப்படும் செயலிகள் மற்றும் தனிப்பட்ட பயன்பாட்டிற்காக உருவாக்கப்படும் செயலிகளும் அடங்கும். சுயமாகச் செயல்படும் நிரலாளர்கள், தேவாலயம் மற்றும் சமூக குழுக்கள், மற்றும் பொழுதுபோக்காக மென்பொருளை உருவாக்குபவர்கள் கூட தங்களின் மென்பொருளை உருவாக்கவும், விநியோகிக்கவும் முடியாத நிலைக்குத் தள்ளப்படுவார்கள்.
 what_registration: "பதிவுக்கு தேவையானவை "
 what_req_fee: "கூகுள்க்கு கட்டணம் செலுத்த வேண்டும்"
 what_req_terms: "கூகுளின் விதிமுறைகள் மற்றும் நிபந்தனைகளை ஏற்றுக்கொள்ள வேண்டும்"
 what_req_id: "உங்களுடைய அரசு அடையாள ஆவணத்தை சமர்ப்பிக்க வேண்டும்"
 what_req_signing: "உங்கள் தனி திரவியின் ஆதாரம் ஒப்படைக்க வேண்டும்"
 what_req_appids: "தற்போதைய மற்றும் வருங்கால செயலிகள் அடையாளங்கள்"
-what_pullquote: "ஒரு நிரலாளர் இதை அனைத்தையுமே ஏற்காவிட்டால்  அவர்களது செயலி உலகமெங்கும் அணைத்து ஆண்ட்ராய்டு கருவிகளில்  தடை செய்யப்படும்"
+what_pullquote: "ஒரு நிரலாளர் இதை அனைத்தையுமே ஏற்காவிட்டால் அவர்களது செயலி உலகமெங்கும் அணைத்து ஆண்ட்ராய்டு கருவிகளில்  தடை செய்யப்படும்"
 
 # Who this hurts
 impact_heading: "இது யாரை பாதிக்கும்"
@@ -68,7 +68,7 @@ precedent_arstechnica: >-
   [Ars Technica](https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/): *"Google's Apple envy threatens to dismantle Android's open legacy."*
 
 # Objections
-objections_heading: "But wait, isn't this..."
+objections_heading: "ஆனால் இருங்கள், இது..."
 obj_security_q: "\"...just about security?\""
 obj_security_a: >-
   The security rationale is a smokescreen. Google Play Protect already scans for malware independent of developer identity. Requiring a government ID doesn't make code safer. It makes *developers* identifiable and controllable. Malware authors can register. Indie developers and dissidents often can't. The [EFF](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship) is blunt: identity-based gatekeeping is a censorship tool, not a security one.
@@ -86,8 +86,8 @@ obj_cost_a: >-
   Maybe, if you're a developer in the US with a credit card and a driver's license. Try being a student in sub-Saharan Africa, or a dissident in Myanmar, or a volunteer maintaining a community health app. The cost isn't only financial: you're surrendering government ID and evidence of your signing keys to a company that [routinely complies](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) with government demands to remove apps and expose developers.
 
 # Fight back
-act_heading: "Fight back"
-act_everyone_heading: "Everyone"
+act_heading: "எதிர்த்து போராடுங்கள்"
+act_everyone_heading: "அனைவரும்"
 act_fdroid: >-
   **[Install F-Droid](https://f-droid.org)** on every Android device you own. Alternative stores only survive if people actually use them.
 act_regulators: >-
@@ -116,33 +116,33 @@ act_google_text: >-
   If you know something about the program's technical implementation or internal rationale, contact [tips@keepandroidopen.org](mailto:tips@keepandroidopen.org) from a *non-work* machine and a *non-Gmail* account. Strict confidence guaranteed.
 
 # Voices section
-voices_heading: "அவங்க என்ன சொல்றாங்க"
+voices_heading: "அவர்கள் என்ன சொல்கிறார்கள்"
 voices_press: "தொழில்நுட்ப ஊடகங்கள்"
-voices_editorials: "Editorials & analysis"
-voices_orgs: "அமைப்புகள் மற்றும் கடிதங்கள்"
-voices_creators: "YouTubers & creators"
-voices_community: "Developers & community"
-voices_petition: "Voices from the petition"
-voices_more: "All references, editorials, press coverage, and videos"
+voices_editorials: "தலையங்கங்கள் மற்றும் ஆய்வுகள்"
+voices_orgs: "அமைப்புகள் மற்றும் பொது கடிதங்கள்"
+voices_creators: "யூடியூபர்கள் மற்றும் படைப்பாளர்கள்"
+voices_community: "நிரலாளர்கள் மற்றும் சமூகம்"
+voices_petition: "மனுவுக்கான குரல்"
+voices_more: "அனைத்து குறிப்புகள், தலையங்கங்கள், பத்திரிகை செய்திகள் மற்றும் காணொளிகளின் பதிபு"
 
 # Signatories section
-signatories_heading: "இதை எதிர்த்தவர்கள் ..."
-signatories_count: "{count} organizations from {countries} countries have signed the"
-signatories_open_letter_link: "பொது கடிதம்"
-signatories_more: "Read the full open letter and thank the signatories"
+signatories_heading: "இதை எதிர்ப்பவர்கள்..."
+signatories_count: "{countries} நாடுகளைச் சேர்ந்த {count} அமைப்புகள் இந்த "
+signatories_open_letter_link: "பொது கடிதத்தில் கையெழுத்திட்டுள்ளன"
+signatories_more: "முழு பொது கடிதத்தையும் படித்து, அதில் கையெழுத்திட்டவர்களுக்கு நன்றி தெரிவியுங்கள்"
 
 # CTA banners
-cta_action_label: "Take Action"
-cta_action_desc: "Full resource list, regulator contacts, links for every country, and how to fight back"
-cta_letter_label: "Open Letter"
-cta_letter_desc: "Read the open letter signed by organizations opposing developer verification"
+cta_action_label: "நடவடிக்கை<br>எடுக்க"
+cta_action_desc: "முழு ஆதாரங்கள், ஒழுங்குமுறை அமைப்புகளின் தொடர்புகள், நாடு முழுவதுமான இணைப்புகள் மற்றும் அதை எதிர்கொள்ளும் வழிமுறைகள்"
+cta_letter_label: "பொது கடிதம்"
+cta_letter_desc: "நிரலாளர் சரிபார்ப்பை எதிர்த்து பல அமைப்புகள் கையெழுத்திட்டுள்ள திறந்த கடிதத்தை படிக்கவும்"
 
 # Closing
 closing_line1: "நீங்கள் வாங்கிய கைபேசியில்"
-closing_line2: "எதை பயன்படுத்த வேண்டும் என்று நீங்கள் தான் முடிவு செய்ய வேண்டும்."
+closing_line2: "எதை பயன்படுத்த வேண்டும் என்று நீங்கள் தான் <br> முடிவு செய்ய வேண்டும்."
 closing_detail: "அதற்கு 9-கட்ட செயல்முறை, 24 மணி நேர காத்திருப்பு அல்லது கூகுளின் தொடர் அனுமதி தேவையில்லை."
-closing_cta: "இந்த பக்கத்தை பகிர்க. இந்த திட்டத்தில்  பதிவு செய்யாதீர். அவர்களை ஆண்ட்ராய்டுயை முடக்க விடாதீர்."
-closing_share_heading: "தகவல் பகிர்க"
+closing_cta: "இந்த பக்கத்தை பகிர்க. இந்த திட்டத்தில் பதிவு செய்யாதீர். அவர்களை ஆண்ட்ராய்டுயை முடக்க விடாதீர்."
+closing_share_heading: "தகவலைப் பகிரவும்"
 
 # Social share messages (rotated randomly; {url} is replaced at build time)
 social_callout_x_1: "Starting September 2026, Google will block any Android app whose developer hasn't registered and provided government ID. This affects every Android device worldwide. Learn more: {url} @AlteredDeal #KeepAndroidOpen"
@@ -201,9 +201,9 @@ social_callout_facebook_9: "Google's 9-step process for 'allowing' unverified ap
 social_callout_facebook_10: "From students building their first apps to volunteers creating privacy tools, Google's mandatory registration policy will freeze out innovation. Help us keep Android open! {url}"
 
 # Social button labels
-spread_label_x: "Post on X"
-spread_label_mastodon: "Post on Mastodon"
-spread_label_bluesky: "Post on Bluesky"
+spread_label_x: "X -யில் பதிவிடவும்"
+spread_label_mastodon: "Mastodon -யில் பதிவிடவும்"
+spread_label_bluesky: "Bluesky -யில் பதிவிடவும்"
 spread_label_linkedin: "LinkedIn"
 spread_label_facebook: "Facebook"
 
