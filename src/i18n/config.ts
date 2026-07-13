@@ -43,8 +43,7 @@ export const languages = {
   "tl": { label: "Tagalog", path: "/tl/" },
   "bn": { label: "বাংলা", path: "/bn/" },
   "hi": { label: "हिंदी", path: "/hi/"},
-  "ta": { label: "தமிழ்", path: "/ta/"},
-  
+  "ta": { label: "தமிழ்", path: "/ta/" },
 
   // CJK (East Asian)
   "zh-CN": { label: "简体中文", path: "/zh-CN/" },

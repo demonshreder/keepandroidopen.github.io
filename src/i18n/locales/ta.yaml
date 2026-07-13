@@ -3,7 +3,7 @@
 
 # Meta
 title: "ஆண்ட்ராய்டை முடக்காதே"
-description: "Your phone is about to stop being yours. In September 2026, Google will block every Android app whose developer hasn't registered with them."
+description: "உங்கள் தொலைபேசி உங்களுடையதாக இல்லாமல் போகப்போகிறது. செப்டம்பர் 2026-இல், கூகுளிடம் பதிவு செய்யாத டெவலப்பர்களின் அனைத்து ஆண்ட்ராய்டு செயலிகளையும் கூகுள் முடக்கும்."
 
 # Hero
 hero_lede: "உங்கள் தொலைபேசி உங்களுடையதாக இல்லாமல் போகப் போகிறது."
@@ -27,16 +27,16 @@ what_pullquote: "ஒரு நிரலாளர் இதை அனைத்த
 # Who this hurts
 impact_heading: "இது யாரை பாதிக்கும்"
 impact_you_heading: "உங்கள"
-impact_you_p1: "You bought an Android phone because Google told you it was open. You could install what you wanted, and that was the deal."
+impact_you_p1: "கூகுள் அது ஒரு 'திறந்த' (open) இயங்குதளம் என்று கூறியதால்தான் நீங்கள் ஆண்ட்ராய்டு போனை வாங்கினீர்கள். உங்களுக்கு விருப்பமானவற்றை அதில் நிறுவலாம் என்பதுதான் அதற்கான ஒப்பந்தம்."
 impact_you_p2: >-
-  Google is now rewriting that deal, retroactively, on hardware you already own. After the update lands, you can only run software that Google has pre-approved. On your phone: *your* property, that *you* paid for.
+  நீங்கள் ஏற்கனவே சொந்தமாக வைத்திருக்கும் வன்பொருளில் (hardware), அந்த ஒப்பந்தத்தை கூகுள் இப்போது பின்னோக்கிச் செயல்படும் வகையில் மாற்றியமைக்கிறது. அந்தப் புதுப்பிப்பு (update) வந்த பிறகு, கூகுள் முன்பே அங்கீகரித்த மென்பொருளை மட்டுமே உங்களால் இயக்க முடியும். அதுவும் உங்கள் தொலைபேசியில்—அதாவது, *நீங்கள்* பணம் கொடுத்து வாங்கிய, *உங்களுக்குச்* சொந்தமான அந்தத் தொலைபேசியில்.
 impact_dev_heading: "சுயேட்சை நிரலாளர்"
-impact_dev_p1: "A teenager's first app, a volunteer's privacy tool, or a company's confidential internal beta. It doesn't matter. After September 2026, none of these can be installed without Google's blessing."
+impact_dev_p1: "ஒரு பதின்ம வயதினரின் முதல் செயலி, ஒரு தன்னார்வலரின் தனியுரிமைக்கான கருவி அல்லது ஒரு நிறுவனத்தின் ரகசியமான 'பீட்டா' (beta) மென்பொருள் - எதுவாக இருந்தாலும் சரி; செப்டம்பர் 2026-க்குப் பிறகு, கூகுளின் அனுமதி இல்லாமல் இவற்றில் எதையும் நிறுவ முடியாது."
 impact_dev_p2: >-
-  [F-Droid](https://f-droid.org), home to thousands of free and open-source Android apps, has called this an ["existential" threat](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html). Cory Doctorow calls it ["Darth Android"](https://pluralistic.net/2025/09/01/fulu/).
+  ஆயிரக்கணக்கான இலவச மற்றும் திறந்த-மூல (open-source) ஆண்ட்ராய்டு செயலிகளின் இருப்பிடமான [F-Droid](https://f-droid.org), இதனை ஒரு ["இருத்தலியல்" அச்சுறுத்தல்](https://f-droid.org/en/2025/09/29/google-google-developer-registration-decree.html) என்று অভিহিতத்துள்ளது. கோரி டாக்டர்ரோ (Cory Doctorow) இதனை ["டார்த் ஆண்ட்ராய்டு" (Darth Android)](https://pluralistic.net/2025/09/01/fulu/) என்று அழைக்கிறார்.
 impact_gov_heading: "அரசுகள் & பொது சமூகம்"
 impact_gov_p1: >-
-  Google has a [documented track record](https://www.aclu.org/news/free-speech/app-store-oligopoly) of complying when authoritarian regimes demand app removals. With this program, the software that runs your country's institutions will exist at the pleasure of a single unaccountable foreign corporation.
+  சர்வாதிகார ஆட்சிகள் செயலிகளை நீக்குமாறு கோரும்போது, ​​அவற்றுக்கு இணங்கிச் செயல்பட்டதற்கான [ஆவணப்படுத்தப்பட்ட வரலாறு](https://www.aclu.org/news/free-speech/app-store-oligopoly) கூகுளுக்கு உண்டு. இத்திட்டத்தின் மூலம், உங்கள் நாட்டின் நிறுவனங்களை இயக்கும் மென்பொருளானது, யாருக்கும் பொறுப்புக்கூறாத ஒரு வெளிநாட்டு நிறுவனத்தின் விருப்பத்திற்கு உட்பட்டதாகவே இருக்கும்.
 impact_gov_p2: >-
   The [EFF calls](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship) app gatekeeping "an ever-expanding pathway to internet censorship."
 
@@ -59,17 +59,17 @@ flow_detail: >-
 
 # Precedent
 precedent_heading: "இது ஆண்ட்ராய்டு விடப் பெரியது."
-precedent_pullquote: "If Google can retroactively lock down billions of devices that were sold as open platforms, every hardware manufacturer on the planet is watching."
+precedent_pullquote: "'திறந்த தளங்களாக' (open platforms) விற்கப்பட்ட கோடிக்கணக்கான சாதனங்களை, விற்பனைக்குப் பிந்தைய நிலையில் கூகுளால் முடக்க முடியுமென்றால், உலகின் அனைத்து வன்பொருள் (hardware) உற்பத்தியாளர்களும் இதைக் கூர்ந்து கவனித்துக்கொண்டிருக்கிறார்கள்."
 precedent_p1: >-
-  The principle being established: **the company that made your device gets to decide, after you've bought it, what software you're allowed to run.** In software, this is called a "rug pull"; but at least you could always install competing software. In hardware, it is a *fait accompli* that strips you of your agency and renders you powerless to the whims of a single unaccountable gatekeeper and convicted monopolist.
+ இங்கே நிலைநாட்டப்படும் கொள்கை இதுதான்: உங்கள் சாதனத்தை உருவாக்கிய நிறுவனமே, அதை நீங்கள் வாங்கிய பிறகும், அதில் எந்த மென்பொருளை இயக்கலாம் என்பதைத் தீர்மானிக்கிறது. மென்பொருள் உலகில் இது "ரக் புல்" (rug pull - திடீரென ஆதரவை அல்லது வசதியைத் திரும்பப் பெறுதல்) என்று அழைக்கப்படுகிறது; ஆனால் அங்காவது, போட்டியிடும் பிற மென்பொருட்களை நீங்கள் நிறுவிக்கொள்ளும் வாய்ப்பு இருந்தது. வன்பொருள் (hardware) விஷயத்திலோ, இது ஒரு மாற்ற முடியாத முடிவாக (fait accompli) உங்கள் சுய-முடிவெடுக்கும் உரிமையைப் பறித்து, பொறுப்புக்கூறல் இல்லாத மற்றும் ஏகபோக ஆதிக்கத்திற்காகத் தண்டிக்கப்பட்ட ஒரு நிறுவனத்தின் விருப்பங்களுக்கு உங்களை அடிபணியச் செய்து, அதிகாரமற்றவராக்குகிறது.
 precedent_p2: >-
-  Android's openness was never just a feature. It was the *promise* that distinguished it from iPhone. Millions chose Android for exactly that reason. Google is now revoking that promise unilaterally, on devices *already* in people's pockets, because they've decided they have enough market dominance and regulatory capture to get away with it.
+ ஆண்ட்ராய்டின் 'திறந்தநிலை' (openness) என்பது வெறும் ஒரு சிறப்பம்சம் மட்டுமல்ல; ஐபோனிலிருந்து அதை வேறுபடுத்திக் காட்டிய ஒரு முக்கிய 'வாக்குறுதி'யாகவும் அது இருந்தது. அந்த ஒரு காரணத்திற்காகவே லட்சக்கணக்கானோர் ஆண்ட்ராய்டைத் தேர்ந்தெடுத்தனர். ஆனால் இப்போது, ​​சந்தையில் தங்களுக்குப் போதுமான ஆதிக்கமும், கட்டுப்பாட்டு அமைப்புகளைத் தங்கள் பக்கம் வளைத்துப் போடும் வல்லமையும் இருப்பதாகக் கருதி, மக்களின் கைகளில் ஏற்கனவே பயன்பாட்டில் உள்ள சாதனங்களில் அந்த வாக்குறுதியை கூகுள் நிறுவனம் ஒருதலைப்பட்சமாகத் திரும்பப் பெற்று வருகிறது.
 precedent_arstechnica: >-
-  [Ars Technica](https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/): *"Google's Apple envy threatens to dismantle Android's open legacy."*
+ [Ars Technica](https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/): *"ஆப்பிள் நிறுவனத்தின் மீதான கூகுளின் பொறாமை, ஆண்ட்ராய்டின் 'திறந்தநிலை' (open) சார்ந்த பாரம்பரியத்தையே சிதைத்துவிடும் அபாயத்தை உருவாக்கியுள்ளது."*
 
 # Objections
 objections_heading: "ஆனால் இருங்கள், இது..."
-obj_security_q: "\"...just about security?\""
+obj_security_q: "\"...பாதுகாப்பு பற்றியது மட்டும்தானா?\""
 obj_security_a: >-
   The security rationale is a smokescreen. Google Play Protect already scans for malware independent of developer identity. Requiring a government ID doesn't make code safer. It makes *developers* identifiable and controllable. Malware authors can register. Indie developers and dissidents often can't. The [EFF](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship) is blunt: identity-based gatekeeping is a censorship tool, not a security one.
 obj_sideloading_q: "\"...still sideloading if you use the advanced flow?\""
