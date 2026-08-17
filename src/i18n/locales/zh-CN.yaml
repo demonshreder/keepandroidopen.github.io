@@ -63,7 +63,7 @@ hero_kicker: "全世界所有应用、所有设备都不例外。"
 what_heading: "Google 在做什么？"
 # [en] what_intro: "In August 2025, Google [announced](https://developer.android.com/developer-verification) a new requirement: starting September 2026, **every Android app developer must register centrally with Google** before their software can be installed on any device. Not just Play Store apps: all apps. This includes apps shared between friends, distributed through [F-Droid](https://f-droid.org), built by hobbyists for personal use. Independent developers, church and community groups, and hobbyists alike will all be frozen out of being able to develop and distribute their software."
 what_intro: >-
-   2025 年 8 月，Google [宣布](https://developer.android.com/developer-verification) 了一条新规：自 2027 年起，**所有 Android 开发者都必须集中向 Google 注册**，否则开发的软件就无法安装到任何设备上。所有应用均会受影响，包括朋友间互传的应用、在 [F-Droid](https://f-droid.org) 上发布的应用以及由爱好者开发、个人使用的软件，而不仅限于 Play Store 中的应用。独立开发者、社区组织、爱好者等都将被挡在软件开发与分发的大门之外。
+   2025 年 8 月，Google [宣布](https://developer.android.com/developer-verification)了一条新规：自 2027 年起，**所有 Android 开发者都必须集中向 Google 注册**，否则开发的软件就无法安装到任何设备上。所有应用均会受影响，包括朋友间互传的应用、在 [F-Droid](https://f-droid.org) 上发布的应用以及由爱好者开发、个人使用的软件，而不仅限于 Play Store 中的应用。独立开发者、社区组织、爱好者等都将被挡在软件开发与分发的大门之外。
 # [en] what_registration: "Registration requires:"
 what_registration: "为了注册，开发者需要："
 # [en] what_req_fee: "Paying a fee to Google"
@@ -181,7 +181,7 @@ act_regulators: "**[联系监管部门](/cta/#consumers)**。全世界的监管�
 # [en] act_share: "**Share this page.** Link to [keepandroidopen.org](https://keepandroidopen.org) everywhere."
 act_share: "**分享这个页面**。让 [keepandroidopen.org](https://keepandroidopen.org) 遍布网络世界。"
 # [en] act_astroturf: "**Push back on astroturfers.** The \"well, actually...\" crowd is out in force. Don't let them set the narrative."
-act_astroturf: "**对抗水军**。言必及“其实吧……”的水军已然出动，不可让他们定义叙事。"
+act_astroturf: "**对抗水军**。开口就是“其实吧……”的那群人已经倾巢而出，别让他们主导舆论风向。"
 # [en] act_petition: "**[Sign the change.org petition](https://www.change.org/p/stop-google-from-limiting-apk-file-usage/)** and join the over 100,000 signatories who have made their voices heard."
 act_petition: >-
   **[签署 change.org 的请愿书](https://www.change.org/p/stop-google-from-limiting-apk-file-usage/)**。加入已有超 10 万人签名的行列，让我们的声音被听到。
