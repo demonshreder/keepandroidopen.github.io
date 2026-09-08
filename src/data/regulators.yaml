@@ -2907,24 +2907,6 @@ countries:
       ja: "カナダ"
     items:
       - text:
-          ar: "البريد الإلكتروني: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          en: "Email: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          da: "E-mail: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          ru: "Электронная почта: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          de: "E-Mail: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          fr: "Courriel : [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          es: "Correo electrónico: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          it: "E-mail: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          sk: "E-mail: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          el: "Στείλτε e-mail: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          th: "อีเมล: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          id: "Pos-el: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          tr: "E-posta: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          uk: "Електронна пошта: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          pl: "E-mail: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          zh-CN: "电子邮件：[info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-          zh-TW: "電子郵件：[info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
-      - text:
           ar: "قدّم شكوى إلى [مكتب المنافسة الكندي](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           en: "Make a complaint to the [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           da: "Indsend en klage til [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
@@ -2944,6 +2926,9 @@ countries:
           pt-BR: "Faça uma reclamação na [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           zh-CN: "向[加拿大竞争局](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)提出投诉"
           zh-TW: "向[加拿大競爭局](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)提出申訴"
+      - text:
+          en: "[Find your Member of Parliament](https://www.ourcommons.ca/members/en)"
+          fr: "[Trouvez votre député](https://www.noscommunes.ca/members/fr)"
   - id: taiwan
     name:
       fa: "تایوان"
